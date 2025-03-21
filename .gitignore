@@ -1,11 +1,13 @@
-# Ignore database files
-climate_data.db
-
-# Ignore CSV and image files
+__pycache__/
+*.xlsx
+*.pdf
+documents/
+Old Firefox Data/
+*.default
 *.csv
+*.exe
 *.png
 *.jpg
-*.jpeg
-*.lnk
-*.ini
-*.exe
+*.db
+
+
