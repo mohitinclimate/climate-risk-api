@@ -1,13 +1,6 @@
-__pycache__/
-*.xlsx
-*.pdf
-documents/
-Old Firefox Data/
-*.default
-*.csv
-*.exe
-*.png
-*.jpg
-*.db
+*.lnk
+desktop.ini
+scrape_berkeley.py
+
 
 
